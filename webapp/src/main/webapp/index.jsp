@@ -6,6 +6,9 @@
   <title>Document</title>
   <style>
     /* Style the form container */
+body{
+background-color:red
+}
 .container {
   width: 50%;
   margin: auto;
