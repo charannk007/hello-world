@@ -7,7 +7,8 @@
   <style>
     /* Style the form container */
 body{
-background-color:blue
+background-color:blue;
+font-size:30px;
 }
 .container {
   width: 50%;
